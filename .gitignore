@@ -1,0 +1,15 @@
+# Loki WAL (Write-Ahead Log)
+loki/wal/
+
+# Promtail positions state
+positions/
+
+# Fake logs source
+k8s-logs/
+
+# Node.js (if you're using it)
+node_modules/
+
+# IDE/editor files
+.vscode/
+*.log

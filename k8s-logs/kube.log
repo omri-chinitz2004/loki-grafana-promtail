@@ -198,3 +198,20 @@
 {"timestamp": "2025-06-15T09:38:30Z", "level": "info", "service": "worker", "user": "alice", "env": "production", "message": "Doch 1 has been opened"}
 {"timestamp": "2025-06-15T09:39:00Z", "level": "debug", "service": "auth", "user": "eve", "env": "production", "message": "Dashboard opened at url /dashboard/service1"}
 {"timestamp": "2025-06-15T09:39:30Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:40:00Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:36:30Z", "level": "info", "service": "worker", "user": "charlie", "env": "production", "message": "Dashboard opened at url /dashboard/service1"}
+{"timestamp": "2025-06-15T09:37:00Z", "level": "warn", "service": "auth", "user": "charlie", "env": "production", "message": "Doch 1 has been opened"}
+{"timestamp": "2025-06-15T09:37:30Z", "level": "warn", "service": "auth", "user": "david", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:38:00Z", "level": "debug", "service": "worker", "user": "alice", "env": "production", "message": "Doch 1 has been opened"}
+{"timestamp": "2025-06-15T09:38:30Z", "level": "info", "service": "worker", "user": "alice", "env": "production", "message": "Doch 1 has been opened"}
+{"timestamp": "2025-06-15T09:39:00Z", "level": "debug", "service": "auth", "user": "eve", "env": "production", "message": "Dashboard opened at url /dashboard/service1"}
+{"timestamp": "2025-06-15T09:39:30Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:40:00Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:39:30Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:40:00Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:40:00Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:39:30Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:40:00Z", "level": "debug", "service": "auth", "user": "alice", "env": "production", "message": "IIS service rollout completed"}
+{"timestamp": "2025-06-15T09:38:00Z", "level": "debug", "service": "worker", "user": "alice", "env": "production", "message": "Doch 1 has been opened"}
+{"timestamp": "2025-06-15T09:38:30Z", "level": "info", "service": "worker", "user": "alice", "env": "production", "message": "Doch 1 has been opened"}
+{"timestamp": "2025-06-15T09:39:00Z", "level": "debug", "service": "auth", "user": "eve", "env": "production", "message": "Dashboard opened at url /dashboard/service1"}
